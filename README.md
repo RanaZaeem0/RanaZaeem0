@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ranazaeem-dev.vercel.app/](https://ranazaeem-dev.vercel.app/)
 
-- 💬 Ask me about **NODE,EXPRESS.JS,NEXT.js**
-
-- 📫 How to reach me **3308624128**
+- 💬 Ask me about **NODE,NEXT.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
