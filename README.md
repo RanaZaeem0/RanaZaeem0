@@ -42,5 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranazaeem0&" alt="ranazaeem0" /></p>
 
-
+<p align="center">
+ <img width="1000" src="./snake.svg" alt="snake"/>
+</p>
 
