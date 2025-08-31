@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Docker,AWS,CI/CD**
 
-- 👨‍💻 All of my projects are available at [https://ranazaeem-dev.vercel.app/](https://ranazaeem-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ranazaeemcodes.vercel.app/](https://ranazaeemcodes.vercel.app/)
 
 - 💬 Ask me about **NODE,NEXT.js**
 
