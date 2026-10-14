@@ -10,6 +10,7 @@
 - 🛠️ **Philosophy:** I prioritize **functional programming** patterns—favoring stateless logic and immutability for cleaner, more maintainable codebases.
 - 💬 **Let's Talk:** Node.js, Next.js, PostgreSQL, or Distributed Systems.
 - 🔗 **Portfolio:** [ranazaeem.me](https://ranazaeem.me/)
+- 🔗 ** Don't link on this:**  https://streamable.com/ijeygo
 
 ---
 
